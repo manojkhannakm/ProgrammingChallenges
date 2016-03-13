@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ma",
+				"MAX"
+			],
+			[
+				"sq",
+				"sqrt"
+			],
+			[
+				"el",
+				"elseif	Else If Condition"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"y",
+				"y2"
+			],
+			[
+				"ch",
+				"char_to_int"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"p",
+				"pos"
+			],
+			[
+				"re",
+				"rem"
+			],
+			[
+				"a",
+				"avg"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"s",
+				"scanf	scanf …"
+			],
+			[
+				"els",
+				"elseif	Else If Condition"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"mai",
+				"main	main()"
+			],
+			[
+				"main",
+				"main(args)	main(args)"
+			],
+			[
+				"ma",
+				"Manoj"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"d",
+				"do	Do While Loop"
+			],
+			[
+				"print",
+				"printf	printf"
+			],
+			[
+				"if",
+				"ifelse	if(…) else"
+			],
+			[
+				"col",
+				"columnNums"
+			],
+			[
+				"n",
+				"nums"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"fo",
+				"for	For Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"extr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"extrace",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ext",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"extract",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"i",
+				"Build: Run in.txt"
+			],
+			[
+				"in",
+				"Build: Run in.txt"
+			],
+			[
+				"clean",
+				"Build: Clean"
+			],
+			[
+				"cle",
+				"Build: Clean"
+			],
+			[
+				"in.t",
+				"Build: Run in.txt"
+			],
+			[
+				"run",
+				"Build: Run in.txt"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packen",
+				"Package Control: Enable Package"
+			],
+			[
+				"packcon ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: template <typename ${1:_InputIter}>"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"E/Manoj/Projects/CodeChef/src/Skeleton.exe",
+			"E:/Manoj/Projects/CodeChef/src/Skeleton.exe",
+			"/E/Manoj/Projects/CodeChef/src/Skeleton.exe",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Manoj/Projects/C++/ProgrammingChallenges/src",
+		"/E/Manoj/Projects/C++/ProgrammingChallenges/src/Round1"
+	],
+	"file_history":
+	[
+		"/E/Manoj/Projects/C++/ProgrammingChallenges/src/110105.cpp",
+		"/C/Users/Manoj/Downloads/Competitive Programming/PERMSUFF.cpp",
+		"/E/Manoj/Projects/C++/ProgrammingChallenges/src/Round1/Homework.cpp",
+		"/E/Manoj/Projects/C++/ProgrammingChallenges/src/110101.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/Round 1/Homework.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/110106.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/110105.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/110101.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/110104.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/110102.cpp",
+		"/E/Manoj/Projects/ProgrammingChallenges/src/110103.cpp",
+		"/E/Manoj/Projects/UVa/src/Skeleton.cpp",
+		"/E/Manoj/Projects/UVa/src/FormingQuizTeams.cpp",
+		"/E/Manoj/Projects/UVa/src/10137.cpp",
+		"/E/Manoj/Projects/UVa/src/10189.cpp",
+		"/E/Manoj/Projects/UVa/src/100.cpp",
+		"/E/Manoj/Projects/CodeChef/src/Skeleton.cpp",
+		"/C/Users/Manoj/Downloads/450.cpp",
+		"/E/Manoj/Softwares/Sublime Text 3 Windows x64/Data/Packages/C++/C++11.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text 3 Windows x64/Data/Packages/C++/C++.sublime-build",
+		"/E/Manoj/Projects/UVa/Uva.sublime-project",
+		"/C/Users/Manoj/Downloads/PERMSUFF.cpp",
+		"/H/Manoj/Codes/UVa/10189.cpp",
+		"/C/Users/Manoj/Downloads/vim74w32/vim/vim74/first.cpp",
+		"/E/Manoj/Projects/CodeChef/src/SEPT14/CHEFLR.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/MUFFINS3.cpp",
+		"/E/Manoj/Projects/CodeChef/src/SEPT14/ROTATION.cpp",
+		"/H/ROTATION.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/PRPALIN.cpp",
+		"/E/Manoj/Projects/CodeChef/src/a.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/C++ Project.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/C++/C++.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/C++/C++.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/main()-(main).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/main(args)-(mainargs).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/main(args)-(main args).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/else-if-..-(elseif) - Copy.sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/010-main()-(main).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/else-if-..-(else if) - Copy.sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/else-..-(else).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/while-..-(while).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/Package Control.last-run",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/Preferences.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/Package Control.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/scanf-..-(scanf).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++/printf-..-(printf).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/printf-..-(printf).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/printf.sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/scanf.sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/C++/printf-..-(printf).sublime-snippet",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/C++ Snippets/reference.md",
+		"/E/Manoj/Projects/CodeChef/src/easy/HOLES.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/C++11/messages/install.txt",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++.sublime-settings",
+		"/E/Manoj/Projects/CodeChef/src/easy/PERMSUFF.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/COOLING.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/TSORT.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build x64/Data/Packages/User/C++ Project.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/C++ Project.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/untitled.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/C++ 'in.txt' input.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/C++ console input.sublime-build",
+		"/E/Manoj/Projects/CodeChef/CodeChef.sublime-workspace",
+		"/E/Manoj/Projects/CodeChef/CodeChef.sublime-project",
+		"/E/Manoj/Projects/CodeChef/src/easy/PERMUT2.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/TLG.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/TEST.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/SUMTRIAN.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/ONP.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/NUMGAME.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/INTEST.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/HS08TEST.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/FCTRL2.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/FCTRL.cpp",
+		"/E/Manoj/Projects/CodeChef/src/easy/DOUBLE.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/Distraction Free.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build 3065 x64/Data/Packages/User/JSON.sublime-settings",
+		"/E/Manoj/Projects/CodeChef/src/PERMSUFF.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/changelog.txt",
+		"/E/Manoj/Projects/CodeChef/src/Test.cpp",
+		"/E/Manoj/Projects/CodeChef/Test.cpp",
+		"/E/Manoj/Projects/CodeChef/Skeleton.cpp",
+		"/E/Manoj/Projects/CodeChef/SUMTRIAN.cpp",
+		"/E/Manoj/Projects/CodeChef/TSORT.cpp",
+		"/E/Manoj/Projects/CodeChef/TEST.cpp",
+		"/E/Manoj/Projects/CodeChef/INTEST.cpp",
+		"/E/Manoj/Projects/CodeChef/HS08TEST.cpp",
+		"/E/Manoj/Projects/CodeChef/HOLES.cpp",
+		"/E/Manoj/Projects/CodeChef/FCTRL2.cpp",
+		"/E/Manoj/Projects/CodeChef/FCTRL.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/User/C++ IO Redirect.sublime-build",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/User/New C++.sublime-build",
+		"/E/Manoj/Projects/CodeChef/Skeleton2.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/User/new_g++.sublime-build",
+		"/E/Manoj/Projects/CodeChef/src/TEST.cpp",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/User/Terminal.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/E/Manoj/Projects/CodeChef/src/out.txt",
+		"/E/Manoj/Projects/CodeChef/src/in.txt",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/E/Manoj/Softwares/Sublime Text Build 3059 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Manoj/Projects/CodeChef/src/87e8eec7-be83-40b1-9b17-2900353a4887.dmp",
+		"/E/Manoj/Projects/CodeChef/src/FCTRL.cpp",
+		"/E/Manoj/Projects/CodeChef/src/INTEST.cpp",
+		"/E/Manoj/Projects/CodeChef/src/HS08TEST.cpp",
+		"/C/Users/Manoj/Downloads/Sublime Text Build 3059 x64/Data/Packages/FileHeader/Default (Windows).sublime-keymap",
+		"/E/Manoj/Projects/CodeChef/src/asd.exe",
+		"/E/Manoj/Projects/CodeChef/src/asd.cpp",
+		"/C/Users/Manoj/Downloads/Sublime Text Build 3059 x64/Data/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/Manoj/Downloads/Sublime Text Build 3059 x64/Data/Packages/User/FileHeader.sublime-settings",
+		"/E/Manoj/Projects/CodeChef/src/file_header.cpp",
+		"/C/Users/Manoj/Desktop/test.cpp",
+		"/C/Users/Manoj/Downloads/Sublime Text Build 3059 x64/Data/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"str",
+			"_",
+			"scanf",
+			"found",
+			"exe",
+			"delete\"",
+			"ctrl+d",
+			"scanf(\"%d\", &n);",
+			"anf(\"%d\", &",
+			");\n",
+			"\",\n",
+			"snipp",
+			"std::",
+			"sort",
+			"\"f6\"",
+			"\"f5\"",
+			"\"f3\"",
+			"l",
+			"second",
+			"$",
+			"indent",
+			"reformat",
+			"N",
+			"T",
+			"X",
+			"T",
+			"N",
+			"T",
+			"N",
+			"T",
+			"\\n",
+			"T",
+			"\");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"line",
+			"",
+			"n",
+			"t",
+			"debit",
+			"t",
+			"n",
+			"t",
+			"rows",
+			"n",
+			"t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ProgrammingChallenges.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"",
+				"main"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
